@@ -29,3 +29,6 @@ https://github.com/madybt/challenge21
 # Render
 Below is the Render URL
 https://challenge21-b8yr.onrender.com
+
+below is the screenshot of the page
+![alt text](image.png)
